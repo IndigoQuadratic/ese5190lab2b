@@ -1,7 +1,7 @@
 # ese5190_lab2b
 ## LED Video
 ![image](https://github.com/IndigoQuadratic/ese5190lab2b/blob/ff860f84c2d0287caa6c203fdff19601a3aac6cc/lab2b_led.gif)
-## Proposal (tentative) : Virtual Character Information Customization based on RP2040
+## Proposal (tentative) : Mini Customized RPG machine based on RP2040
 - ***Introduction***: With the rapid grow of virtual reality technology, especially its application in some host RPG(role play games) like *Pokemo:GO*, *SWORD ART ONLINE* and *STAR WARS*, more and more players have got an immersive experience surfing fantasy world as if they are the main chracter. But it seems always annoying when starting a new character by chaging the modeling parameters in the game, so why don't we use a more time-saving way to get started with the main character who just acts as your cyber substitute? This project demos a virtual character customization using human face recognition based on designated sensors. More comprehensive modules will be included as follows.
 - ***Component List***:
   | Component         | Number      |                     Note                   |       Product Website |
